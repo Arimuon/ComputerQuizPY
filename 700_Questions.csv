@@ -1,0 +1,718 @@
+﻿Index;Unit;Question_Number;Type_of_Question;Question;Answer;Distractor1;Distractor2;Distractor3
+1;1. What is a computer system?;1;Multiple choice;Which of the following is not a feature of a computer system?;Checking;Input;Process;Output
+2;1. What is a computer system?;2;True or False;The principle of a computer system is the same for any electrical device with a processor.;TRUE;;;
+3;1. What is a computer system?;3;Multiple choice;The IPO model of a computer system refers to? ;Input, Process, Output;Input, Procedure, Output;Integer, Process, Output;Impress, Proper, Open
+4;1. What is a computer system?;4;True or False;A computer processes data using instructions from a program.;TRUE;;;
+5;1. What is a computer system?;5;Multiple choice;The physical components of a computer system is known as?;Hardware;Parts;Software;Bits
+6;1. What is a computer system?;6;Multiple choice;The electrical instructions that control the operation of a computer system is known as?;Software;Hardware;Signals;Controls
+7;1. What is a computer system?;7;True or False;Computer can make mistakes and work out the wrong outputs.;FALSE;;;
+8;1. What is a computer system?;8;True or False;Users operating computer systems can introduce errors in the outputs.;TRUE;;;
+9;1. What is a computer system?;9;Multiple choice;GIGO is the abbreviation for:;Garbage In, Garbage Out;General Input, General Output;Grand Instructions, Grand Outputs;Germany India, Geneva Oslo
+10;1. What is a computer system?;10;Multiple choice;In addition to Input, Processing and Output, a computer system needs:;Storage;Paper;Disks;Instructions
+11;2. Computers in the modern world;1;True or False;Computers can't go any faster.;FALSE;;;
+12;2. Computers in the modern world;2;True or False;Computers are now being carried around in people's pockets.;TRUE;;;
+13;2. Computers in the modern world;3;True or False;Online shopping has only good impacts on businesses.;FALSE;;;
+14;2. Computers in the modern world;4;Multiple choice;What can't computers do yet?;Act independently;Drive a car;Fly a plane;Recognise faces 
+15;2. Computers in the modern world;5;Multiple choice;AI is the abbreviation for;Artificial Intelligence;Actuator Incrementor;Adjust Inline;Action Input
+16;2. Computers in the modern world;6;True or False;There are more networked devices in the world than people.;TRUE;;;
+17;2. Computers in the modern world;7;True or False;There are more Facebook users than there are people in the USA.;TRUE;;;
+18;2. Computers in the modern world;8;True or False;Everyone in the world can access the internet.;FALSE;;;
+19;2. Computers in the modern world;9;True or False;Everything you read on the internet is true.;FALSE;;;
+20;2. Computers in the modern world;10;True or False;1/3 of married couples in the USA met online.;TRUE;;;
+21;3. Reliability of computer systems;1;True or False;Computers are 100% reliable.;FALSE;;;
+22;3. Reliability of computer systems;2;True or False;It is often not possible to test every possible part of a computer system.;TRUE;;;
+23;3. Reliability of computer systems;3;Multiple choice;Which of the following test types test the reliability of a system by real test users?;Beta;Alpha;Gamma;Delta
+24;3. Reliability of computer systems;4;True or False;Reliability is the measure of how closely a system performs to its requirements.;TRUE;;;
+25;3. Reliability of computer systems;5;True or False;Modern software is often 100% reliable.;FALSE;;;
+26;3. Reliability of computer systems;6;Multiple choice;One measure of reliability is MTBF which is the abbreviation for:;Mean Time Between Failures;Most Total Basic Flops;Measurable Targets Brought Forward;Maximum Time Before Faults
+27;3. Reliability of computer systems;7;True or False;Systems are often unreliable because the original specification for the project was wrong.;TRUE;;;
+28;3. Reliability of computer systems;8;True or False;Reliability of systems increases over time.;FALSE;;;
+29;3. Reliability of computer systems;9;Multiple choice;Systems can be made more reliable by adding:;Redundancies;Data;Users;More code
+30;3. Reliability of computer systems;10;Multiple choice;Faults in an unreliable system can be corrected using:;Patches;Code;Adjustments;They can't be corrected!
+31;4. Professional standards;1;True or False;Systems can be made more reliable by following standards.;TRUE;;;
+32;4. Professional standards;2;Multiple choice;Proprietary standards are standards that are owned by:;Companies;Individuals;Teams;Everyone
+33;4. Professional standards;3;True or False;Proprietary standards ensure systems work the same way.;TRUE;;;
+34;4. Professional standards;4;True or False;Industry standards are needed to ensure different hardware developers use standard interconnections.;TRUE;;;
+35;4. Professional standards;5;Multiple choice;De facto standards are those that:;Develop because everyone adopts a specific way of doing something.;Are generated from systems created in factories.;Are French computer standards.;Created by big software companies.
+36;4. Professional standards;6;True or False;Open standards are controlled by the company that produced them.;FALSE;;;
+37;4. Professional standards;7;Multiple choice;Which of these isn't an open standard?;Windows;TCP/IP;HTML;SMTP
+38;4. Professional standards;8;True or False;The International Organisation for Standardisation (ISO) is responsible for producing worldwide standards.;TRUE;;;
+39;4. Professional standards;9;Multiple choice;Which of the following is not an industry computing standard?;ZYZ;VGA;USB;DVI
+40;4. Professional standards;10;True or False;Open standards are used for internet communication.;TRUE;;;
+41;5. Ethical and environmental considerations;1;True or False;Ethical considerations are legally binding for companies.;FALSE;;;
+42;5. Ethical and environmental considerations;2;True or False;Ethical standards are written for computing professionals to follow.;TRUE;;;
+43;5. Ethical and environmental considerations;3;True or False;The rise of the internet has increased the number of ethical considerations companies need to follow.;TRUE;;;
+44;5. Ethical and environmental considerations;4;True or False;Information posted about yourself on a social networking site is private to you.;FALSE;;;
+45;5. Ethical and environmental considerations;5;True or False;Computer crime isn't as important as real-life crime.;FALSE;;;
+46;5. Ethical and environmental considerations;6;Multiple choice;As computers become more widespread which of the following will not be an environmental consideration?;Deforestation;Energy consumption;Waste;
+47;5. Ethical and environmental considerations;7;True or False;Computers are not recyclable.;FALSE;;;
+48;5. Ethical and environmental considerations;8;True or False;The manufacture of one desktop computer uses more than 240 kilos of fossil fuels.;TRUE;;;
+49;5. Ethical and environmental considerations;9;Multiple choice;Which of the following materials is not found in a computer?;Uranium;Lead;Arsenic;Mercury
+50;5. Ethical and environmental considerations;10;True or False;Most electricity is wasted when a computer is left on but not used.;TRUE;;;
+51;6. Legal considerations;1;Multiple choice;Which legislation is not related to computer use?;Parliament act;Data protection act;Computer misuse act;Design copyright and patents act
+52;6. Legal considerations;2;True or False;Computer legislation stops people misusing computers.;FALSE;;;
+53;6. Legal considerations;3;True or False;You can be prosecuted for illegally downloading music from the internet.;TRUE;;;
+54;6. Legal considerations;4;Multiple choice;Which of the following is not outlined as a criminal offense in the Computer Misuse act?;Unauthorised lending of computer equipment;Unauthorised access to computer material;Unauthorised access with intent to commit further offences;Unauthorised modification of computer material
+55;6. Legal considerations;5;True or False;The Computer Misuse Act applies to any one using computers anywhere in the world.;FALSE;;;
+56;6. Legal considerations;6;True or False;Data stored in the cloud on USA-based servers can be legally accessed by the US government;TRUE;;;
+57;6. Legal considerations;7;True or False;The Data Protection Act only applies to individuals.;FALSE;;;
+58;6. Legal considerations;8;True or False;You can't be prosecuted under the Computer Misuse Act if someone uses an your account and you told them your password.;FALSE;;;
+59;6. Legal considerations;9;True or False;An individual cannot find out what information a company holds about them.;FALSE;;;
+60;6. Legal considerations;10;True or False;The Data Protection Act pushes companies to take better care of customer data.;TRUE;;;
+;Computing hardware;;;;;;;
+61;7. Purpose and function of the CPU;1;Multiple choice;CPU stands for;Central Processing Unit;Computer Processing Unit;Core Processing Unit;Central Power Unit
+62;7. Purpose and function of the CPU;2;True or False;Without a CPU the computer would not work.;TRUE;;;
+63;7. Purpose and function of the CPU;3;True or False;The CPU processes data;TRUE;;;
+64;7. Purpose and function of the CPU;4;Multiple choice;The CPU would not work without the following component;RAM;Hard drive;USB memory stick;Graphics card
+65;7. Purpose and function of the CPU;5;True or False;Computers only ever have 1 CPU;FALSE;;;
+66;7. Purpose and function of the CPU;6;True or False;As soon as the computer is switches on the CPU begins processing data;TRUE;;;
+67;7. Purpose and function of the CPU;7;Multiple choice;Which two main components make up a CPU;Control unit and Arithmetic Logic unit ;Control unit and Processing unit;Control unit and RAM;Flash storage and Arithmetic Logic unit 
+68;7. Purpose and function of the CPU;8;Multiple choice;ALU stands for;Arithmetic Logic unit ;Arithmetic Legal unit ;Anti Logic unit ;Arithmetic Logic undo
+69;7. Purpose and function of the CPU;9;True or False;The CPU needs access to the main memory and Cache memory;TRUE;;;
+70;7. Purpose and function of the CPU;10;True or False;RAM is within the CPU;FALSE;;;
+71;8. The fetch execute cycle;1;Multiple choice;The correct order is;Fetch, Decode, Execute;Decode, Execute, Fetch;Execute, Decode, Fetch;Decode, Fetch, Execute
+72;8. The fetch execute cycle;2;True or False;Instructions are fetched from main memory;TRUE;;;
+73;8. The fetch execute cycle;3;Multiple choice;Which part of the fetch execute cycle involves retrieving an instruction from a memory address;Fetch;Execute;Decode;
+74;8. The fetch execute cycle;4;Multiple choice;Which part of the fetch execute cycle involves the CPU identifying the operation code (op-code) part of the instruction which;Decode;Fetch;Execute;
+75;8. The fetch execute cycle;5;Multiple choice;Which part of the fetch execute cycle links together the parts of the CPU that are needed to carry out the instruction.;Execute;Decode;Fetch;
+76;8. The fetch execute cycle;6;Multiple choice;An op-code;specifies an instruction to be carried out;specifies the data on which an operation is to be peformed;;
+77;8. The fetch execute cycle;7;True or False;The fetch execute cycle runs continuously when the computer is turned on.;TRUE;;;
+78;8. The fetch execute cycle;8;True or False;The address of the instruction is stored in the program counter;TRUE;;;
+79;8. The fetch execute cycle;9;True or False;After an instruction is fetched, the program counter is updated so that the CPU knows the address of the next instruction to be fetched.;TRUE;;;
+80;8. The fetch execute cycle;10;Multiple choice;During the fetch execute cycle, the CPU fetches, decodes and executes a _________;instruction;bit;token;message
+81;9. Common characteristics of the CPU (clock speed);1;True or False;The system clock keeps everything synchronised inside the computer;TRUE;;;
+82;9. Common characteristics of the CPU (clock speed);2;Multiple choice;Clock speed is measures in;hertz;bytes;bits;time
+83;9. Common characteristics of the CPU (clock speed);3;Multiple choice;A computer measured in 1 hertz can do how many things a second;1;2;100;1000
+84;9. Common characteristics of the CPU (clock speed);4;True or False;You can overclock a computer to make the processor run faster which increases the processing power.;TRUE;;;
+85;9. Common characteristics of the CPU (clock speed);5;True or False;Overclocking can break your computer;TRUE;;;
+86;9. Common characteristics of the CPU (clock speed);6;True or False;To achieve a stable overclock you may need to increase the voltage of the computer.;TRUE;;;
+87;9. Common characteristics of the CPU (clock speed);7;Multiple choice;Which one of these is not true when overclocking;it will make your computer run cooler;it will speed up your computer;it may make your computer unstable;your computer may need more volts
+88;9. Common characteristics of the CPU (clock speed);8;True or False;The rate of the fetch execute cycle depends on the clock speed.;TRUE;;;
+89;9. Common characteristics of the CPU (clock speed);9;True or False;You can underclock a processor.;TRUE;;;
+90;9. Common characteristics of the CPU (clock speed);10;True or False;Some processors cannot be overclocked;TRUE;;;
+91;10. Cache memory - speeding up execution;1;True or False;The CPU cache is a memory buffer that sits between the hard drive and the main memory;FALSE;;;
+92;10. Cache memory - speeding up execution;2;True or False;Cache memory temporarily stores data.;TRUE;;;
+93;10. Cache memory - speeding up execution;3;True or False;CPU cache has lower access time than RAM;TRUE;;;
+94;10. Cache memory - speeding up execution;4;Multiple choice;The CPU cache stores;Frequently accessed data and instructions;Only instructions;Word documents;A list of IP addresses
+95;10. Cache memory - speeding up execution;5;True or False;The bigger the cache, the longer it takes to store instructions that the processor needs;FALSE;;;
+96;10. Cache memory - speeding up execution;6;True or False;Having a larger cache size on the CPU can improve the performance of the computer.;TRUE;;;
+97;10. Cache memory - speeding up execution;7;Multiple choice;Typical cache sizes range from about;512 KB to 8 MB;512 MB to 8 GB;2000 kB to 2000 GB;1 GB to 2 TB
+98;10. Cache memory - speeding up execution;8;True or False;Multicore processors can have a separate cache for each core.;TRUE;;;
+99;10. Cache memory - speeding up execution;9;True or False;A cache makes recently accessed data immediately available to the processor;TRUE;;;
+100;10. Cache memory - speeding up execution;10;True or False;CPU cache memory is typically volatile;TRUE;;;
+101;11. CPU cores;1;Multiple choice;In a processor, a core is;A single processor which can fetch and decode instructions;A type of RAM;The middle part of the CPU;A type of secondary storage
+102;11. CPU cores;1;Multiple choice;Binary data is written as;1s and 0s;all number between 0 and 9;text only, no special charachters;images
+103;11. CPU cores;2;Multiple choice;A quad core processor has how many cores;4;1;2;8
+104;11. CPU cores;3;True or False;In a muti-core processor, there is always 1 core which is faster than the others.;FALSE;;;
+105;11. CPU cores;4;Multiple choice;A processor with two cores is called a;dual core processor;quad core processor;double core processor;CPU x2
+106;11. CPU cores;5;Multiple choice;A processor with 6 cores is called a;hex core processor;quad core processor;6 giga-core processor;super core processor
+107;11. CPU cores;6;True or False;Some processors do not have a CPU core;FALSE;;;
+108;11. CPU cores;7;True or False;You can upgrade your CPU core;FALSE;;;
+109;11. CPU cores;8;True or False;The higher the number of cores, the better the performance of the computer.;TRUE;;;
+110;11. CPU cores;9;True or False;A dual core processor will always process data faster than a single core processor;FALSE;;;
+111;11. CPU cores;10;True or False;The overall rate of fetching and executing instructions is multiplied by the number of cores.;TRUE;;;
+112;12. Binary data;1;Multiple choice;What is the output of NOT(A) if A = 1;0;1;;
+113;12. Binary data;2;Multiple choice;8 in binary is;1000;101;1001;1010
+114;12. Binary data;3;True or False;Binary only has two states, 1 or 0.;TRUE;;;
+115;12. Binary data;4;True or False;8 bits = 1 byte;TRUE;;;
+116;12. Binary data;5;True or False;1 bit = either a 1 or a 0;TRUE;;;
+117;12. Binary data;6;Multiple choice;How many bytes are there in a megabyte?;1024;1050;100;124
+118;12. Binary data;7;Multiple choice;Which one of these is an example of binary data;1001;1A;2;1002
+119;12. Binary data;8;True or False;All processes, regardless of their type, are converted into binary form before execution.;TRUE;;;
+120;12. Binary data;9;Multiple choice;Binary is a;Base 2 system;Base 8 system;Base 16 system;Base 10 system
+121;12. Binary data;10;Multiple choice;Why do computers use binary;Computers use electronic switches and circuits to store data, it is quick to read the voltage in a circuit as on or off.;It is easy to convert binary into hex.;It is easy to count from 0 to 1.;Because that is the way it has always been done.
+122;13. Logic gates AND, OR, NOT;1;True or False;A truth table lists every possible combination of input and the resulting output;TRUE;;;
+123;13. Logic gates AND, OR, NOT;2;Text and Image multiple choice;Which symbol is an AND gate?;;;;
+124;13. Logic gates AND, OR, NOT;3;Text and Image multiple choice;Which symbol is a NOT gate?;;;;
+125;13. Logic gates AND, OR, NOT;4;Text and Image multiple choice;Which symbol is an OR gate?;;;;
+126;13. Logic gates AND, OR, NOT;5;True or False;The logic in used in computer systems is called Boolean logic because there are only 3 possible values.;FALSE;;;
+127;13. Logic gates AND, OR, NOT;6;Multiple choice;A AND B = Q, If A=1 and B=1 what does Q equal?;1;0;2;
+128;13. Logic gates AND, OR, NOT;7;Multiple choice;NOT A = Q, if A equals 1 what does Q equal?;0;1;;
+129;13. Logic gates AND, OR, NOT;8;Multiple choice;(NOT A) AND B = Q, If A=0 and B = 1, what does Q equal?;1;0;;
+130;13. Logic gates AND, OR, NOT;9;Multiple choice;NOT(A OR B) = Q, if A=0 and B=0, what does Q equal?;1;0;;
+131;13. Logic gates AND, OR, NOT;10;Multiple choice;(C AND D) OR (NOT(A OR B)) = Q, If A=1, B=1, C=0 and D=1, what does Q equal?;0;1;;
+132;14. Truth tables;1;True or False;A truth table lists every possible combination of input and the resulting output;TRUE;;;
+133;14. Truth tables;2;Text and Image multiple choice;Click on the truth table for the AND gate;;;;
+134;14. Truth tables;3;Text and Image multiple choice;Click on the truth table for the OR gate;;;;
+135;14. Truth tables;4;Text and Image multiple choice;Click on the truth table for the NOT gate;;;;
+136;14. Truth tables;5;Text and Image multiple choice;Using the gate, if A=1 and B=0 what is Q?;1;0;;
+137;14. Truth tables;6;Text and Image multiple choice;Using the gate, if A=1 and B=0 what is Q?;0;1;;
+138;14. Truth tables;7;Text and Image multiple choice;Fill in the missing number for a NOT gate;0;1;2;4
+139;14. Truth tables;8;Text and Image multiple choice;Fill in the missing number;1;0;2;4
+140;14. Truth tables;9;Text and Image multiple choice;Using the gate, if A=1 what is Q?;0;1;;
+141;14. Truth tables;10;Text and Image multiple choice;Fill in the missing number;1;0;2;4
+142;15. The difference between RAM and ROM;1;True or False;ROM is volatile;FALSE;;;
+143;15. The difference between RAM and ROM;2;True or False;RAM is volatile;TRUE;;;
+144;15. The difference between RAM and ROM;3;True or False;ROM stores start up instructions such as the bootstrap loader;TRUE;;;
+145;15. The difference between RAM and ROM;4;True or False;ROM is not generally written to;TRUE;;;
+146;15. The difference between RAM and ROM;5;True or False;The RAM contains the program used to start up the computer;FALSE;;;
+147;15. The difference between RAM and ROM;6;Multiple choice;Which one is typically smaller in terms of data capacity?;ROM;RAM;;
+148;15. The difference between RAM and ROM;7;Multiple choice;What does the RAM store?;Operating system, programs and data which are currently being used;A program used to start the computer called the ‘boot program’ or BIOS;All programs and documents stored on the computer;
+149;15. The difference between RAM and ROM;8;True or False;The term 'volatile' refers to how likely a piece of equipment is to fail;FALSE;;;
+150;15. The difference between RAM and ROM;9;True or False;More RAM is better because this means that the computer can run less programs at the same time.;FALSE;;;
+151;15. The difference between RAM and ROM;10;True or False;It is better to have more ROM because the computer will boot up quicker.;FALSE;;;
+152;16. The need for ROM;1;True or False;Without ROM, the computer would not boot up.;TRUE;;;
+153;16. The need for ROM;2;True or False;The ROM stores the operating system;FALSE;;;
+154;16. The need for ROM;3;True or False;The ROM provides instructions to the CPU to say how hardware should be initialised and how the boot loader is executed.;TRUE;;;
+155;16. The need for ROM;4;Multiple choice;What does the ROM store on it;Boot-up instructions;Word documents;The operating system;Game save points
+156;16. The need for ROM;5;Multiple choice;The term boot is short for;bootstrap loader;bootable pratition;robots;booting up the mainframe
+157;16. The need for ROM;6;True or False;The amount of ROM installed needs to be at least 2GB for the computer to work;FALSE;;;
+158;16. The need for ROM;7;True or False;ROM retains data even with the power switched off;TRUE;;;
+159;16. The need for ROM;8;Multiple choice;The ROM chip is directly attached to which item inside the computer?;The motherboard;A harddrive;The CPU;A floppy disk drive
+160;16. The need for ROM;9;True or False;When the computer switches off, all of the data stored on it is erased;FALSE;;;
+161;16. The need for ROM;10;True or False;When you turn on your computer the first thing you tend to see is the BIOS, this displays information like the amount of memory installed on your computer and the type of hard disk you have etc.;TRUE;;;
+162;17. The need for RAM;1;Multiple choice;When the computer has been switched on for more than 10 minutes, which one does the RAM not store;Bootup instructions;The operating system ;The programs currently being used;The data currently being used
+163;17. The need for RAM;2;True or False;RAM is a type of primary memory;TRUE;;;
+164;17. The need for RAM;3;True or False;Getting data from the hard drive is slower than getting it from the RAM;TRUE;;;
+165;17. The need for RAM;4;True or False;When the computer is switched off, all the data is transferred from the RAM to the ROM;FALSE;;;
+166;17. The need for RAM;5;True or False;If you run out of space in RAM, you can use virtual memory;TRUE;;;
+167;17. The need for RAM;6;Multiple choice;SRAM stands for;Static random access memory;Standard random access memory;Stationary random access memory;Satisfactory random access memory
+168;17. The need for RAM;7;Multiple choice;DRAM stands for;Dynamic random access memory;reDundant random access memory;Durable random access memory;Data random access memory
+169;17. The need for RAM;8;True or False;Serial Access Memory (SAM) is the opposite of Random Access Memory (RAM);TRUE;;;
+170;17. The need for RAM;9;Multiple choice;The most common form of RAM is;Dynamic RAM;Static RAM;Video RAM;CPU RAM
+171;17. The need for RAM;10;Multiple choice;What material is RAM made out of;Silicon;Copper;Plastic;Glass
+172;18. How RAM affects performance;1;True or False;More memory usually means that the computer is faster;TRUE;;;
+173;18. How RAM affects performance;2;True or False;When the computer is switched on, the RAM stores the operating system;TRUE;;;
+174;18. How RAM affects performance;3;Multiple choice;If the RAM is upgraded from 512MB to 4GB, what will be the biggest benefit?;More programs and data can be opened at the same time;The operating system will be faster;There will be more hard drive space;The computer will be quicker if you open a document
+175;18. How RAM affects performance;4;True or False;Modern computers need at least 16 GB of RAM;FALSE;;;
+176;18. How RAM affects performance;5;Multiple choice;Which RAM is faster;Static RAM;Dynamic RAM;;
+177;18. How RAM affects performance;6;Multiple choice;RAM is usually sold in multiples of how many megabytes;16;7;10;15
+178;18. How RAM affects performance;7;True or False;The more RAM you have, the more organised your hard drive documents will be;FALSE;;;
+179;18. How RAM affects performance;8;True or False;If you have 1 RAM module which is 8GB, it is faster than 2 4GB modules.;FALSE;;;
+180;18. How RAM affects performance;9;True or False;RAM speed is measured in GB;FALSE;;;
+181;18. How RAM affects performance;10;True or False;Having more RAM will increase performance in all situations;FALSE;;;
+182;19. The need for virtual memory;1;Multiple choice;Virtual memory is;a memory management technique;a virus checking utility;a piece of hardware;an series of pixels used to represent an image
+183;19. The need for virtual memory;2;Multiple choice;Virtual memory typically uses two storage devices, RAM and ______________.;the hard drive;ROM;a secondary piece of RAM;a CD-ROM
+184;19. The need for virtual memory;3;Multiple choice;Virtual memory is used;when the RAM is not enough to contain all of the programs and data currently being used;every other time a program is used;as a secondary storage medium for long term storage of documents;when the CPU is getting overheated
+185;19. The need for virtual memory;4;True or False;A program stored in virtual memory may run slower than a program stored on the RAM;TRUE;;;
+186;19. The need for virtual memory;5;True or False;The computer can take programs out of the RAM and store them in virtual memory, this frees up the RAM to be used to open more programs.;TRUE;;;
+187;19. The need for virtual memory;6;True or False;A program needs to be stored on the RAM before it can be used.;TRUE;;;
+188;19. The need for virtual memory;7;True or False;Hard drives have faster access times than RAM;FALSE;;;
+189;19. The need for virtual memory;8;True or False;If a program is stored in virtual memory, it needs to be put back onto the RAM before it can be used again.;TRUE;;;
+190;19. The need for virtual memory;9;True or False;The more programs you have open, the less RAM and virtual memory will be needed.;FALSE;;;
+191;19. The need for virtual memory;10;True or False;Virtual memory makes use of secondary storage as if it were main memory.;TRUE;;;
+192;20. Cache memory;1;Multiple choice;CPU Cache is located on;The CPU;The RAM;The hard drive;The motherboard
+193;20. Cache memory;2;True or False;Cache is used to make the computer faster;TRUE;;;
+194;20. Cache memory;3;Multiple choice;Cache memory acts as a buffer between the processor and;the RAM;the harddrive;the motherboard;the user
+195;20. Cache memory;4;Multiple choice;When the processor fetches data from the RAM, it is first copied onto the;cache memory, and then from the cache memory into the main processor;RAM, and then from the RAM into the main processor;CPU, and then from the CPU into the RAM;cache memory, and then from the cache memory into the RAM
+196;20. Cache memory;5;Multiple choice;Which transfer is faster;data between the cache and the CPU;data between the RAM and cache;data between the RAM and CPU;data between the hard drive and CPU
+197;20. Cache memory;6;True or False;Before the processor fetches data from the RAM, it will check if it is stored on the cache first.;TRUE;;;
+198;20. Cache memory;7;True or False;The larger the cache, the slower the CPU will fetch instructions;FALSE;;;
+199;20. Cache memory;8;True or False;A CPU cache is the same as a website cache;FALSE;;;
+200;20. Cache memory;9;True or False;A cache is used to reduce average times to access memory;TRUE;;;
+201;20. Cache memory;10;True or False;Cache memory generally has (at least) two different levels, level 1 is the fastest.;TRUE;;;
+202;21. Flash memory and changes in memory technologies;1;True or False;Over time, memory has become cheaper to produce.;TRUE;;;
+203;21. Flash memory and changes in memory technologies;2;Multiple choice;Which of these statements is true;Mobile phones are much smaller than they were 15 years ago;Mobile phones use much less power than mobile phones 15 years ago;PCs are much larger than they were 15 years ago.;PCs have much less RAM than 15 years ago
+204;21. Flash memory and changes in memory technologies;3;True or False;Many devices have faster read/write times than 10 years ago;TRUE;;;
+205;21. Flash memory and changes in memory technologies;4;True or False;Modern computers have a lot more storage capacity than ones 5 years ago.;TRUE;;;
+206;21. Flash memory and changes in memory technologies;5;True or False;The cost of RAM and hard drives has fallen so modern computers have more of it;TRUE;;;
+207;21. Flash memory and changes in memory technologies;6;True or False;8 years ago, it was common to buy a 128 Mb USB memory card.;TRUE;;;
+208;21. Flash memory and changes in memory technologies;7;True or False;15 years ago, students carried around floppy disks to store their data on;TRUE;;;
+209;21. Flash memory and changes in memory technologies;8;True or False;Some modern computers have solid state hard drives instead of magnetic ones, this allows for the computer to boot up faster;TRUE;;;
+210;21. Flash memory and changes in memory technologies;9;True or False;Moore's law is an observation that over the history of computing, the number of transistors on integrated circuits doubles approximately every two years. This theory means that the overall processing power of computers will double every two years.;TRUE;;;
+211;21. Flash memory and changes in memory technologies;10;Multiple choice;Which one of these statements is true;Over the next two years, SSD cards should get cheaper;Over the next two years, SSD cards should get more expensive;Over the next two years, magnetic hard drives should get more expensive;Over the next two years, USB memory sticks should get more expensive
+212;22. The need for input and output devices;1;Multiple choice;What is the purpose of a microphone;to record/transmit audio data;to record/transmit text data;to record/transmit infrared data;to play audio data
+213;22. The need for input and output devices;2;Multiple choice;What is the purpose of a scanner;to convert images or text on paper to a digital format;to record audio data;to print paper copies of files;to play audio data
+214;22. The need for input and output devices;3;True or False;A touchpad and a touchscreen are the same thing;FALSE;;;
+215;22. The need for input and output devices;4;True or False;If you are an artist, it is easier to draw images using a graphics tablet;TRUE;;;
+216;22. The need for input and output devices;5;True or False;Graphics tables are much more expensive than a typical laser mouse;TRUE;;;
+217;22. The need for input and output devices;6;True or False;Excessive use of any input or output devices can lead to health problems such as RSI;TRUE;;;
+218;22. The need for input and output devices;7;Multiple choice;Which one of these is an automatic input device?;Optical Mark Recognition;Mouse;Keyboard;Scanner
+219;22. The need for input and output devices;8;True or False;A webcam is vital if you want to watch videos on youtube;FALSE;;;
+220;22. The need for input and output devices;9;Multiple choice;A device which records facial recognition or fingerprints is what type of system;Biometric;Future technology;AI;Skynet
+221;22. The need for input and output devices;10;Multiple choice;What type of device is used to detect physical changes in things such as light, temperature or object proximity.;Sensors;Magnets;Mice;Cameras
+222;23. Input and output devices for a range of situations;1;Multiple choice;Which input device gives a better gaming experience for racing or flying games?;A joystick;A keyboard;A scanner;A webcam
+223;23. Input and output devices for a range of situations;2;Multiple choice;Which input device is more suitable for obtaining a copy of a printed document?;A scanner;A webcam;A keyboard;A mouse
+224;23. Input and output devices for a range of situations;3;Multiple choice;Which device is both and input and an output device;A touchscreen;A scanner;A keyboard;A light
+225;23. Input and output devices for a range of situations;4;Multiple choice;Which input device is most suitable for recording someone singing?;A microphone;A touchpad;A mouse;A barcode reader
+226;23. Input and output devices for a range of situations;5;Multiple choice;OCR stands for;Optical Character Recognition;Optical Character Reader;Optimised Character Reader;One Clear Reader
+227;23. Input and output devices for a range of situations;6;Multiple choice;Which output device gives you a hardcopy of a document?;A printer;Speakers;A monitor;A projector
+228;23. Input and output devices for a range of situations;7;Multiple choice;Which one of these is an output device;A monitor;A keyboard;A mouse;A microphone
+229;23. Input and output devices for a range of situations;8;Multiple choice;Which one of these can project images onto a wall;A projector;A monitor;A printer;Speakers
+230;23. Input and output devices for a range of situations;9;Multiple choice;Which one of these output devices is more suitable for a blind person to use;Speakers;A projector;Lights ;A monitor
+231;23. Input and output devices for a range of situations;10;Multiple choice;Which one of these devices is more suitable to use as an output in a loud environment;A monitor;Speakers;;
+232;24. Input and output devices for specific needs;1;True or False;The Disability Discrimination act means that there should be equal opportunities for disabled people in relation to technology, including access to websites.;TRUE;;;
+233;24. Input and output devices for specific needs;2;True or False;example: Grass is green;TRUE;;;
+234;24. Input and output devices for specific needs;3;Multiple choice;Which one of these is the most suitable for a blind user using a rail ticket machine;Voice recognition;barcode scanner;a keyboard;a mouse
+235;24. Input and output devices for specific needs;4;Multiple choice;Which one of these is the most suitable for a blind user, using a rail ticket machine, to receive their ticket;A braille Printer;A laser printer;A plotter;A light
+236;24. Input and output devices for specific needs;5;Multiple choice;Which one of these is the most suitable for a blind user using a rail ticket machine, to receive instructions;A speaker;A light;On-screen instructions;A video tutorial
+237;24. Input and output devices for specific needs;6;Multiple choice;A screen magnifier can be used to;make information on a screen larger;read out information on the screen;print something out in braille;move a pointer on a screen
+238;24. Input and output devices for specific needs;7;Multiple choice;An eye typer can be used to;track a users eye movements and record the movements as input ;lets the user log onto a website using their eye as biometric identification;print something out in braille;enlarge information on a screen
+239;24. Input and output devices for specific needs;8;Multiple choice;Braille keyboards and printers use a system where;characters are represented by patterns of raised dots that are felt with the persons fingertips;information is enlarged on a screen;information is read out via a speaker;a pointer is moved about on a screen
+240;24. Input and output devices for specific needs;9;Multiple choice;Predictive text is where;a user can tap letters on a keyboard and a word is suggested, so instead of typing out the whole word the computer suggests the word you are trying to type;a computer can write word documents on its own;text is read out via a speaker;text is enlarged on a screen
+241;24. Input and output devices for specific needs;10;True or False;Microphones can be used by visually impaired people to read out information on a screen;FALSE;;;
+242;25. Secondary storage;1;True or False;You can purchase a USB flash drive which can store 2PB of data.;FALSE;;;
+243;25. Secondary storage;2;True or False;USB flash drives use solid state memory.;TRUE;;;
+244;25. Secondary storage;3;True or False;Solid state hard drives are more suitable than magnetic hard drives for portable devices.;TRUE;;;
+245;25. Secondary storage;4;True or False;CDs store more data than floppy drives.;TRUE;;;
+246;25. Secondary storage;5;True or False;A CD-ROM is re-writable.;FALSE;;;
+247;25. Secondary storage;6;True or False;Solid state hard drives have moving parts.;FALSE;;;
+248;25. Secondary storage;7;Multiple choice;The term capacity refers to;the amount of data you can store on the device;how shiny the device is;how easily you can damage the device;the speed of the device
+249;25. Secondary storage;8;Multiple choice;The term durability refers to;how easily you can damage the device;the speed of the device;the amount of data you can store on the device;how shiny the device is
+250;25. Secondary storage;9;Multiple choice;The term portability refers to;how easy it is to carry around/transport the device;the speed of the device;the amount of data you can store on the device;how shiny the device is
+251;25. Secondary storage;10;Multiple choice;Which one of these is commonly used to measure storage capacity;bytes;the number of text documents you can store on it;hertz;Mb/s
+252;26. Storage devices;1;True or False;RAM is a type of primary storage;TRUE;;;
+253;26. Storage devices;2;True or False;A hard drive is a type of primary storage.;FALSE;;;
+254;26. Storage devices;3;True or False;All secondary storage devices are external to the computer;FALSE;;;
+255;26. Storage devices;4;Multiple choice;What does the tem 'read/write time' refer to;How long it takes for data to be read of written to the device;How long it takes a person to read/write a word document;The amount of data to be stored on the device;How long the storage media can reasonably be expected to last
+256;26. Storage devices;5;Multiple choice;What type of storage device is an SSD?;Secondary;Primary;;
+257;26. Storage devices;6;Multiple choice;Which one of these devices is solid state?;USB flash memory;CD;DVD;Magnetic stripe
+258;26. Storage devices;7;Multiple choice;Which one of these devices is optical?;CD;SSD;USB flash drive;Magnetic stripe
+259;26. Storage devices;8;True or False;If you use online storage and your internet goes down, the data is permanently lost;FALSE;;;
+260;26. Storage devices;9;True or False;You have large quantity of family videos to store, you should use primary storage for this.;FALSE;;;
+261;26. Storage devices;10;True or False;ROM is a primary storage device;TRUE;;;
+;Software;;;;;;;
+262;27. Functions of an OS;1;Multiple choice;All operating systems provide these functions:;Providing a user interface, Managing the memory, Managing the hardware;Backing up information, creating user's documents, assessing the Internet;Creation of new programs, deleting and creating files, connecting to other computers;None of the above
+263;27. Functions of an OS;2;Multiple choice;The following is not a function of an operating system:;Checking for viruses;Directing information from peripheral devices like a mouse or a printer;Allowing users to open applications;Allocating the computer's memory between different tasks.
+264;27. Functions of an OS;3;Multiple choice;Icons, menus and windows are part of:;Graphical user interface;System security;Applications and user files;Graphics or games packages
+265;27. Functions of an OS;4;Multiple choice;The following is not a part of GUI:;command prompt;scroll bar;text box;radio button
+266;27. Functions of an OS;5;Multiple choice;What is the reason computer memory needs to be managed?;the amount of memory in a computer is limited;to protect your data from hackers;applications can't be trusted to use memory properly;
+267;27. Functions of an OS;6;Multiple choice;Managing computer memory by the operating system does not include this process:;connecting printers and other peripheral devices;releasing memory not used for a while;loading programs into memory as a user opens them;protecting one program's memory area from being used by the other program
+268;27. Functions of an OS;7;Multiple choice;Operating systems are responsible for logging users in and out. This function is a part of:;user interface;memory management;managing hardware and devices;
+269;27. Functions of an OS;8;True or False;There are operating systems without an interface.;FALSE;;;
+270;27. Functions of an OS;9;True or False;Only personal computers need operating systems, not mobile phones or robots.;FALSE;;;
+271;27. Functions of an OS;10;True or False;Many operating systems have similar looking user interfaces featuring buttons, labels, and windows.;TRUE;;;
+272;28. Common utility programs;1;Multiple choice;A utility program;monitors and maintains a computer system;sends emails;makes sure the CPU is fast enough;produces office documents
+273;28. Common utility programs;2;Multiple choice;Antivirus software;searches for malicious programs and either deletes or quarantines them;creates business documents;makes the hard drive run more efficiently;creates a restore point
+274;28. Common utility programs;3;Multiple choice;A firewall;controls and inspects incoming and outgoing network traffic to prevent unauthorised access;creates business documents;creates a restore point;searches for malicious programs and either deletes or quarantines them
+275;28. Common utility programs;4;Multiple choice;Spyware is;software that installs itself on your computer and then gathers information about passwords, what Internet sites you visit and other confidential information. ;used to help protect your computer against viruses.;used to tell you how much storage space is free on your computer;automatically deletes browsing history.
+276;28. Common utility programs;5;Multiple choice;Automatic updates;make sure your computer has the latest security patches and updates for software installed.;creates business documents.;shows how much storage space is left on a computer.;transfers files to other computers.
+277;28. Common utility programs;6;Multiple choice;System information and diagnosis can;show how much storage space is free on a hard drive;delete temporary internet files;create a new user account;searches for malicious programs and either deletes or quarantines them
+278;28. Common utility programs;7;Multiple choice;I think I have a virus on my computer, I should use a _____________ to get rid of it.;Antivirus;Firewall;Automatic backup;Disk cleanup
+279;28. Common utility programs;8;Multiple choice;I am about to install a new program but want to make sure I can revert back to the computers current state if anything goes wrong, I should _____________ before I do anything else.;set a system restore point;switch off the firewall;empty the recycle bin;send an email to my teacher
+280;28. Common utility programs;9;Multiple choice;I am running out of space on my hard drive, I should use the _____________ tool.;disk cleanup;email;disk defragment;backup
+281;28. Common utility programs;10;True or False;Firewalls remove viruses;FALSE;;;
+282;29. Merits of different types of software;1;Multiple choice;Certain computing projects in education and science are free and maintained by a diverse community of people. Their software is usually distributed as:;open source;charity;off the shelf;
+283;29. Merits of different types of software;2;Multiple choice;Microsoft Office and similar software is an example of:;off the shelf;bespoke;open source;
+284;29. Merits of different types of software;3;Multiple choice;A bank thinks of getting a database package. They have particular needs, such as having their logo on every screen and timing employees performing tasks. The best software in this case would be:;bespoke;off the shelf;open source;
+285;29. Merits of different types of software;4;Multiple choice;A small office is thinking about getting productivity sofware for typing up letters and simple spreadsheet modelling. Their needs and budget are modest. The best software in this case would be:;off the shelf;bespoke;none of the above ;
+286;29. Merits of different types of software;5;Multiple choice;John needs to exchange information with a lot of people, sending documents back forth. He wants to get a data handling software that will keep track of his expenses and revenues. The best software in this case would be:;off the shelf;open source;bespoke;
+287;29. Merits of different types of software;6;Multiple choice;Some software programs develop rapidly, gaining new features and adapting to new uses, very often very specialised and experimental. The best software in this case would be:;open source;proprietory;bespoke;
+288;29. Merits of different types of software;7;Multiple choice;The following is not a good reason to use bespoke software:;the need to perform a very wide range of tasks;special features only needed by one company;low computer skills of employees;
+289;29. Merits of different types of software;8;Multiple choice;A lot of scientific projects run on _____ software.;open source;proprietory;expensive;
+290;29. Merits of different types of software;9;Multiple choice;The following type of software will typically have the biggest number of users:;off the shelf;proprietory;bespoke;
+291;29. Merits of different types of software;10;True or False;Bespoke sofware is otherwise known as custom written software.;TRUE;;;
+;Representation of data in computer systems;;;;;;;
+292;30. Definitions of units;1;Multiple choice;How many binary values can a nibble store?;16;8;4;32
+293;30. Definitions of units;2;Multiple choice;A kilobyte is usually rounded to 1000 bytes. But actually it is _____ bytes:;1024;512;1048;9600
+294;30. Definitions of units;3;Multiple choice;A gigabyte consists of 1024:;megabytes;terabytes;kilobytes;nibbles
+295;30. Definitions of units;4;Multiple choice;The most fundamental unit of computer data storage is:;a byte;a megabyte;a bit;a gigabyte
+296;30. Definitions of units;5;Multiple choice;The following is a correct order of units of storage from lowest to highest:;a bit, a nibble, a byte, a kilobyte, a megabyte, a gigabyte, a terabyte;a bit, a byte, a nibble, a kilobyte, a megabyte, a gigabyte, a terabyte;a bit, a nibble, a byte, a megabyte, a kilobyte, a gigabyte, a terabyte;a byte, a bit, a nibble, a megabyte, a kilobyte, a gigabyte, a terabyte
+297;30. Definitions of units;6;Multiple choice;The smallest unit of data that use is:;a bit;a byte;a gigabyte;a megabyte
+298;30. Definitions of units;7;Multiple choice;The following is true about all units of data:;they are all degrees of two;they are all approximations;they keep on changing as computers get more powerful;they are all divisible by a nibble
+299;30. Definitions of units;8;Multiple choice;The following unit of data can approximately store a page of text:;a kilobyte;a byte;a megabyte;a gigabyte
+300;30. Definitions of units;9;Multiple choice;Megabyte is equal to this many bytes:;1000000;1000;100000;1000000000
+301;30. Definitions of units;10;Multiple choice;There are that many nibbles in a byte:;2;4;16;None of the above
+302;31. Binary format;1;Multiple choice;In a binary number, the bit on the very left is called:;Most significant bit;Least significant bit;Operand;Leftmost parity field
+303;31. Binary format;2;Multiple choice;When a binary number's rightmost bit is a one this means:;it represents an odd number;it represents an even number;this byte is corrupted;none of the above
+304;31. Binary format;3;Multiple choice;In a positive 8 bit binary number, having a one on the left side means that:;The value of the number is at least 128;The number is odd;The number is even;The value of the number is at least 255
+305;31. Binary format;4;True or False;"Binary system is also known as ""base 1 and 0""";FALSE;;;
+306;31. Binary format;5;Multiple choice;In Binary, 0010 was mistakenly written down as 0100. This has the following effect:;It doubles the number;It halves the number;It makes the number invalid;
+307;31. Binary format;6;True or False;To increase a binary number by one we set MSB to one;FALSE;;;
+308;31. Binary format;7;Multiple choice;The following is true about all bits in a binary number:;The bit on a left is always double that on the right.;The bit on a right is always double that on the left.;The bit in the middle is never zero;
+309;31. Binary format;8;True or False;We call it a binary system because it uses digits 2, 1, 0;FALSE;;;
+310;31. Binary format;9;True or False;Binary operation is well suited to computers.;TRUE;;;
+311;31. Binary format;10;Multiple choice;Out of these numbers: 1100 0110, 0111 1111, 0001 1111, 1010 1010, which one is the largest?;1100 0110;0111 1111;0001 1111 ;1010 1010
+312;32. Converting positive denary whole numbers;1;Multiple choice;What is 54 in binary;110110;11011000;10011101;1111
+313;32. Converting positive denary whole numbers;2;Multiple choice;What is 127 in binary;1111111;10000000;11011111;11000010
+314;32. Converting positive denary whole numbers;3;Multiple choice;What is 7 in binary;111;101;1000;1001
+315;32. Converting positive denary whole numbers;4;Multiple choice;What is 13 in binary;1101;1111;1011;1010
+316;32. Converting positive denary whole numbers;5;Multiple choice;What is 253 in binary;11111101;11110101;11001101;11110100
+317;32. Converting positive denary whole numbers;6;Multiple choice;What is 218 in binary;11011010;11011110;11111010;1011010
+318;32. Converting positive denary whole numbers;7;Multiple choice;What is 173 in binary;10101101;10101001;101101;11111101
+319;32. Converting positive denary whole numbers;8;Multiple choice;What is 92 in binary;1011100;11011100;1111100;1011101
+320;32. Converting positive denary whole numbers;9;Multiple choice;What is 146 in binary;10010010;10010011;11010010;10111010
+321;32. Converting positive denary whole numbers;10;Multiple choice;What is 203 in binary;11001011;11011011;1011;11101010
+322;33. Adding 8-bit binary numbers;1;Multiple choice;11010101 + 00000001 =;11010110;11010102;10110101;215
+323;33. Adding 8-bit binary numbers;2;Multiple choice;00010111 + 01001100 =;1100011;11100011;1110001;1111011
+324;33. Adding 8-bit binary numbers;3;Multiple choice;00011011 + 00001100 =;1000011;1000111;1100011;1000010
+325;33. Adding 8-bit binary numbers;4;Multiple choice;00000111 + 00001100 =;10011;110011;10010011;10012
+326;33. Adding 8-bit binary numbers;5;Multiple choice;01110111 + 00001100 =;10000011;10100011;10001111;10000010
+327;33. Adding 8-bit binary numbers;6;Multiple choice;01100110 + 00001101 =;1110011;11110011;1110010;1100011
+328;33. Adding 8-bit binary numbers;7;Multiple choice;01100100 + 00101101 =;10010001;10001;10010111;10011001
+329;33. Adding 8-bit binary numbers;8;Multiple choice;00100000 + 10101101 =;11001101;10001101;11000001;11010101
+330;33. Adding 8-bit binary numbers;9;Multiple choice;11111111 + 00000001 =;100000000;0;100000001;11111111
+331;33. Adding 8-bit binary numbers;10;Multiple choice;01010101 + 10101010 =;11111111;11111110;11110000;10101011
+332;34. Hexadecimal numbers;1;Multiple choice;What is 27 in hexadecimal;1B;17;11011;1C
+333;34. Hexadecimal numbers;2;Multiple choice;What is 126 in hexadecimal;7E;111110;76;7F
+334;34. Hexadecimal numbers;3;Multiple choice;What is 98 in hexadecimal;62;98;AB;69
+335;34. Hexadecimal numbers;4;Multiple choice;What is 184 in hexadecimal;B8;B4;10111000;9A
+336;34. Hexadecimal numbers;5;Multiple choice;What is 219 in hexadecimal;DB;DC;BB;ED
+337;34. Hexadecimal numbers;6;Multiple choice;What is 253 in hexadecimal;FD;11111101;FF;CD
+338;34. Hexadecimal numbers;7;Multiple choice;What is 19 in hexadecimal;13;10011;19;1A
+339;34. Hexadecimal numbers;8;Multiple choice;What is 12 in hexadecimal;C;12;D;B
+340;34. Hexadecimal numbers;9;Multiple choice;What is 142 in hexadecimal;8E;8F;8B;C2
+341;34. Hexadecimal numbers;10;Multiple choice;What is 102 in hexadecimal;66;67;62;6A
+342;35. Character sets;1;Multiple choice;Choose the best answer about character sets:;All characters in character sets are stored in binary.;Some characters in character sets are stored in binary.;Only binary characters in character sets are stored in binary.;
+343;35. Character sets;2;Multiple choice;The following is true about character sets:;Each letter has a unique code;Lower and upper case letters share the same codes;ASCII is one of the latest character sets to be adopted;
+344;35. Character sets;3;Multiple choice;The following is not true about the ASCII character set:;example: Mount Everest;Usually, is made up of 7 bits;Is not enough to represent languages other than English;
+345;35. Character sets;4;Multiple choice;Identify a true statement:;Standard ASCII only uses the first 128 positions in the table.;Standard ASCII only uses the first 255 positions in the table.;ASCII has more letters than Unicode;
+346;35. Character sets;5;Multiple choice;The main purpose of character sets is:;To allow humans to express alphanumeric characters in a binary table;To run the Internet;To simplify computer programming;
+347;35. Character sets;6;Multiple choice;The first 31 ASCII characters:;Are rarely used by today's computers.;Are the lowercase letters of the English alphabet.;Are the uppercase letters of the English alphabet.;
+348;35. Character sets;7;Multiple choice;Uppercase characters in ASCII:;Appear before lowercase characters.;Appear after lowercase characters.;Don't get unique codes to store their position in binary.;
+349;35. Character sets;8;Multiple choice;Unicode can represent:;65,536 different characters;255 characters;127 characters;
+350;35. Character sets;9;Multiple choice;Portions of the large Unicode set are divided into:;Code pages.;Subsets.;Alphabets.;
+351;35. Character sets;10;Multiple choice;ASCII uses one byte per character. Unicode uses how many bytes per character?;2 bytes per character.;3 bytes per character.;4 bytes per character.;
+352;36. Images;1;Multiple choice;Quality of an image depends on:;Resolution;Metadata;Screen size;Computer's speed
+353;36. Images;2;Multiple choice;The density of pixels in an image file is known as:;Resolution;Dimensions.;Transparency.;Compression.
+354;36. Images;3;Multiple choice;Resolution is measured in:;Pixels per mm or per inch;Print size.;Milimeters.;Bytes.
+355;36. Images;4;Multiple choice;Identify a true statement:;Image files can be compressed by setting pixels with similar colour to the exactly same colour.;Compressing files improves their quality.;Resolution doesn't affect the printed size of an image.;Black and white images have colour depth of two bits.
+356;36. Images;5;Multiple choice;Colour depth refers to:;How many bits are used in a file to store colour information in every pixel;Resolution divided by the number of colours in an image.;Degree of file compression applied to an image file.;Repeated resampling of an image.
+357;36. Images;6;Multiple choice;Most graphic formats create many colours from:;Red, green, blue.;Red, pink, yellow.;Red, white, blue.;Black, white, green.
+358;36. Images;7;Multiple choice;The smallest unit of data stored in an image file is called:;Pixels;Resolution;Alpha;Bitmap.
+359;36. Images;8;Multiple choice;Alpha-channel present in some images refers to:;Transparency of pixels.;Quality of a file.;The order in which alternative pixels are loaded.;Degree of file compression applied to an image file.
+360;36. Images;9;True or False;A bitmap file is an example of raster graphics.;TRUE;;;
+361;36. Images;10;True or False;A bitmap file contains virtually unlimited number of colours.;FALSE;;;
+362;37. Metadata;1;Multiple choice;Images can contain a geographical location of where the picture was taken. This is stored in a special area of an image file called:;Metadata;File name.;Compression area.;Alpha-channel.
+363;37. Metadata;2;Multiple choice;The following is true about metadata:;It is data about data.;It is corrupted data.;It significantly increases file sizes.;
+364;37. Metadata;3;Multiple choice;Metadata doesn't contain the following:;File name.;Print dimensions.;Colour depth.;Camera settings for when the picture was taken.
+365;37. Metadata;4;Multiple choice;The following is often stored in metadata:;All of these.;Colour depth;Height and Width of an image;Compression algorithm applied.
+366;37. Metadata;5;Multiple choice;If image metadata is corrupted,;The resulting picture is not displayed properly.;It is easily fixed.;Will not affect printing and displaying of the file.;
+367;37. Metadata;6;Multiple choice;Metadata is used in the following files:;All of these.;Images;MP3 files;Webpages
+368;37. Metadata;7;Multiple choice;A common type of image metadata is called:;EXIF;MP3;TIFF;GIF
+369;37. Metadata;8;True or False;Image metadata will store the make of the camera that took the picture.;TRUE;;;
+370;37. Metadata;9;True or False;Metadata can be used to organise and search for images.;TRUE;;;
+371;37. Metadata;10;True or False;Image metada can present privacy risk.;TRUE;;;
+372;38. Sound;1;True or False;Digital sound always sounds better than analogue.;FALSE;;;
+373;38. Sound;2;True or False;The most common sampling rate for sound files is 16 bit.;FALSE;;;
+374;38. Sound;3;True or False;The most common sampling rate for sound files is 44.1 khz.;TRUE;;;
+375;38. Sound;4;True or False;A microphone converts the changes in air pressure into voltage changes which are then digitised.;TRUE;;;
+376;38. Sound;5;Multiple choice;The following is true about sampling rates:;They measure a number of snapshots of sound taken per second.;They are not as important as bit rates.;They are different for every song, depending on its loudness.;
+377;38. Sound;6;True or False;Sampling rate for CDs is different from the one used by DVDs.;TRUE;;;
+378;38. Sound;7;Multiple choice;DAC does this:;Converts a binary stored version of a recording to voltage changes that speakers can reproduce.;Takes voltage changes and digitises them for further processing and storage.;Amplifies the sound and makes it digitally clean.;
+379;38. Sound;8;Multiple choice;Identify a false statement:;Higher bit rates usually improve the sound quality and result in smaller file size.;Higher bit rates usually improve the sound quality but result in larger file size.;To record a sound into binary format, ADC will be applied rather than DAC.;
+380;38. Sound;9;Multiple choice;Which of the following is not a usual way of reducing sound file size:;Erasing metadata and keeping recordings short.;Using lossy compression.;Using lossless compression.;Reducing sampling rate or bit rate.
+381;38. Sound;10;True or False;Lossy compression works by identifying sound frequencies that are not obvious and deleting them.;TRUE;;;
+382;39. Instructions;1;Multiple choice;CPU executes instructions written in:;Machine code;Assembler;High level language;Database language
+383;39. Instructions;2;Multiple choice;A CPU instruction is made of how many parts?;2;3;1;4
+384;39. Instructions;3;Multiple choice;"One machine code instruction consists of an ""opcode"" which stands for operation code and:";memory address;user input;memory code;number code
+385;39. Instructions;4;Multiple choice;Which of the following is not an operation code:;1100;ADD;BRZ;END
+386;39. Instructions;5;True or False;Machine code instructions written for one CPU will probably work on most others.;FALSE;;;
+387;39. Instructions;6;Multiple choice;Which of the following is not a common CPU mnemonic?;MULT;ADD;SUB;LDA
+388;39. Instructions;7;Multiple choice;The mnemonic LDA stands for:;Load accumulator;Load dynamic array;Let digits append;
+389;39. Instructions;8;Multiple choice;The concept where instructions and the data that relates to the instructions share the same CPU registers is known as:;The Von Neumann Architecture;Assembler;Mnemonics;High level programming language
+390;39. Instructions;9;True or False;CPU can tell opcodes from data without any additional information.;FALSE;;;
+391;39. Instructions;10;Multiple choice;The Von Neumann architecture works on this cycle:;Fetch-Execute;Load-Process-Store;Begin-Process-Halt;
+;Databases;;;;;;;
+392;40. Databases and the use of data handling software;1;Multiple choice;The following is true about databases:;Any organised storage of data, even on paper cards, is a database;You need a computer to run a database;You need some special software to run a database;
+393;40. Databases and the use of data handling software;2;Multiple choice;Computer databases have the following advantage over manual databases:;All of these;Multiple views can restrict what different types of database users can see;Faster searching;Takes up less physical space
+394;40. Databases and the use of data handling software;3;Multiple choice;Which one of the following is not a popular database package:;Microsoft Word;Microsoft Excel;MySQL;Microsoft Access
+395;40. Databases and the use of data handling software;4;Multiple choice;Every database must have:;All of these;Entities;Relationships;Spell checker
+396;40. Databases and the use of data handling software;5;Multiple choice;Which of the following is the best definition of a database?;A persistent collection of related data stored and organised in a logical way.;A collection of tables and views to serve customers.;A computer program that allows the storage and retrieval of data.;
+397;40. Databases and the use of data handling software;6;True or False;Search engines like Google or Bing are essentially databases.;TRUE;;;
+398;40. Databases and the use of data handling software;7;True or False;Paper-based databases make it difficult to search data for more than one criteria.;TRUE;;;
+399;40. Databases and the use of data handling software;8;Multiple choice;Which of these words doesn't belong?;installing;criteria;sorting;relationship
+400;40. Databases and the use of data handling software;9;True or False;Computerised databases are easier to back up and restore in case of an emergency.;TRUE;;;
+401;40. Databases and the use of data handling software;10;True or False;Computerised databases are flexible: you can mix numbers and words in the same field.;FALSE;;;
+402;41. DBMS;1;Multiple choice;DBMS allows a user to do all of these tasks except:;Speed up the operation of a computer;Create a blank database table;Extract a data set from a number of tables;Produce reports that combine and summarise the data.
+403;41. DBMS;2;Multiple choice;Which of the following is not a DBMS despite having database capabilities:;Microsoft Excel or similar spreadsheets;Oracle;MySQL;Microsoft Access or similar
+404;41. DBMS;3;Multiple choice;Which of the following is the most important feature of DBMS:;Command language like SQL;Ability to back up data;Ease of use;Ability to automate some tasks
+405;41. DBMS;4;True or False;In DBMS systems data is separated from control.;TRUE;;;
+406;41. DBMS;5;True or False;It is hard to get one DBMS system to exchange data with another DBMS.;FALSE;;;
+407;41. DBMS;6;True or False;All DBMS systems use SQL as a command language.;FALSE;;;
+408;41. DBMS;7;Multiple choice;DBMS can summarise the data stored in the database and produce an easy to read _____:;reports;queries;tables;criteria
+409;41. DBMS;8;Multiple choice;A database entity is also known as:;a table;a field;a row;a report
+410;41. DBMS;9;Multiple choice;"A particular DBMS uses SQL for extracting data. The SQL command ""WHERE"" is usually followed by:";a criteria;a table name;a user name;a mathematical formula
+411;41. DBMS;10;Multiple choice;A DBMS system is made up of:;queries, forms, reports;tables, entities, fields;rows, columns, criteria;data and commands
+412;42. Tables and entities;1;True or False;Flat file databases use only one table.;TRUE;;;
+413;42. Tables and entities;2;Multiple choice;Which of these statements is correct?;All of these;"Rows in a database table are usually called ""records"".";"Columns in a database table are usually called ""fields"".";Some columns in a database can't be left blank.
+414;42. Tables and entities;3;Multiple choice;Databases keep data in:;Tables;Queries;Forms;Reports
+415;42. Tables and entities;4;True or False;Tables store data about Entities;TRUE;;;
+416;42. Tables and entities;5;True or False;Every attribute has a number of associated entities.;FALSE;;;
+417;42. Tables and entities;6;True or False;Information about an entity is stored in attributes;TRUE;;;
+418;42. Tables and entities;7;True or False;All tables in a database are connected through relationships.;FALSE;;;
+419;42. Tables and entities;8;Multiple choice;If one of the entities stored in a database is a magic wands on a shelf, it might have all of these attributes except:;Supplier's address;Supplier ID;Price;Quantity
+420;42. Tables and entities;9;Multiple choice;The following two attributes from different tables will form a relationship:;Supplier's ID and Item Supplier;Quantity purchased and Quantity left;Item name and supplier's ID;
+421;42. Tables and entities;10;Multiple choice;The following is not a valid type of a relationship:;one-to-all;one-to-one;one-to-many;many-to-many
+422;43. Logical operators;1;Multiple choice;"The following query ""SELECT * FROM Videos"" can be interpreted as:";Requesting to show all records stored in the table called Video.;Deleting all records stored in the table called Video.;Requesting to show all records with ID of 1 character stored in the table called Video.;
+423;43. Logical operators;2;Multiple choice;The following is not a valid SQL keyword:;PRINT;SELECT;INSERT;DELETE
+424;43. Logical operators;3;Multiple choice;"The following condition ""!="" means:";not equal;always equal;error;
+425;43. Logical operators;4;Multiple choice;The following is not a valid Logical keyword:;EQUAL;AND;OR;NOT
+426;43. Logical operators;5;Multiple choice;To select all items in the above table costing over £100 and in stock, the following SQL statement is needed:;SELECT * FROM Items WHERE Price>100 AND Quantity>0;SELECT * FROM Items WHERE Price>100 OR Quantity>0;INSERT * FROM Items WHERE Price>100 OR Quantity>0;SELECT * FROM Items WHERE Price>=100 AND Quantity>=0
+427;43. Logical operators;6;Multiple choice;A query to select both products from the same supplier would look like this:;SELECT * FROM Items WHERE Supplier=205;SELECT * FROM Items WHERE Supplier=Supplier;"SELECT * FROM Items WHERE Item=""Socket m3"" OR Item=""Fuse 1A""";
+428;43. Logical operators;7;Multiple choice;"The following query UPDATE Customers SET Price=Price*0.75, WHERE (Quantity>100 OR Price<30) AND OnSale=FALSE; will do this:";For all non-sale items with over 100 units unsold, apply a 25% discount.;Show all non-sale items with over 100 units unsold, priced 75p or lower.;Take 75% off all overstocked items and mark them as non-sale items.;
+429;43. Logical operators;8;True or False;AND operator is often replaced with NOT(OR);FALSE;;;
+430;43. Logical operators;9;Multiple choice;"To select all items except ""Socket m3"", we could run the following query:";SELECT * FROM Items WHERE NOT(ID=1001);"SELECT * FROM Items WHERE NOT(ID=""Socket m3"")";"SELECT NOT(ID=""Socket m3"") FROM Items ";
+431;43. Logical operators;10;Multiple choice;AND, OR allow users to combine multiple ________ in querying a database:;criteria;tables;records;
+432;44. Key fields;1;Multiple choice;A primary key of one table is known as a _______ key in other tables:;foreign;unknown;related;unique
+433;44. Key fields;2;True or False;Key fields can't be left blank.;TRUE;;;
+434;44. Key fields;3;Multiple choice;A relationship between two entities is formed when:;a primary key of one entity appears as a field in another entity.;some of the data from one entity is copied to the other.;these entities are merged.;these entities contain very similar data.
+435;44. Key fields;4;True or False;Automatically incremented primary keys are usually numeric;TRUE;;;
+436;44. Key fields;5;True or False;A foreign key is otherwise known as a secondary key.;TRUE;;;
+437;44. Key fields;6;Multiple choice;What can we say about the Supplier field?;All of these;It is a secondary key in this table;It is a primary key in the Suppliers table;It is a numeric field
+438;44. Key fields;7;Multiple choice;What would be the most appropriate name for this table?;Inventory;Suppliers;List of IDs;Price list
+439;44. Key fields;8;Multiple choice;You are given two tables. Identify the primary key for Magic Stuff Co that is missing, using the information in the other table.;211;215;1003;1001
+440;44. Key fields;9;Multiple choice;This is not a valid table because:;ID field needs to stay in one format but the third record as an alphanumeric ID;The third record's Primary key is too long;The ID numbers have gaps, e.g. ID 206 is missing;
+441;44. Key fields;10;Multiple choice;Identify a wrong statement:;Keys can only be numeric because text keys can't be sorted.;When DBMS runs a query in a table and finds a secondary key it then searches the related table and substitutes the related value instead of a key.;DBMS usually uses numeric keys.;ID and key are usually used interchangeably.
+442;45. Validating data;1;Multiple choice;To decrease the number of mistakes when inputting data into a database, we use two techniques:;Verification and validation.;Validation and virus checking.;Backup and virus checking.;Searching for duplicates and erasing empty rows.
+443;45. Validating data;2;Multiple choice;Validates ensures that data is fit for purpose which means the data is:;sensible and reasonable;accurate and fact-checked;spelled correctly;
+444;45. Validating data;3;Multiple choice;The following is true about validation:;It is performed by software;It is performed by a human;It requires everything to be typed twice, e.g. a new password.;
+445;45. Validating data;4;True or False;Most database software has sophisticated verification routines.;FALSE;;;
+446;45. Validating data;5;Multiple choice;When inputting UK customers into a table, this type of validation will prevent non-UK postal codes to be entered:;Format check;Presence check;Range check;Check digit
+447;45. Validating data;6;Multiple choice;When inputting credit card customers into a table, this type of validation will prevent invalid numbers to be entered:;All of these;Length check;Check digit;Format check
+448;45. Validating data;7;Multiple choice;A user is entering valid but highly unusual data, e.g. age of 113 years. The following is true:;A special routine needs to run, getting the user to confirm and flag this entry up for human verification.;Unusual data is invalid, clearly a person 113 years of age will not be entered in database. It needs to be rejected.;It is possible that a customer can be indeed be 113 years old. The data should be treated as any other.;
+449;45. Validating data;8;Multiple choice;The following mistakes will not be picked up by any validation:;13 Broad Street instead of 12 Broad Street;0 Broad Street instead of 12 Broad Street;5 Broad Avenue instead of 5 Broad Street;
+450;45. Validating data;9;True or False;Sometimes validation will prevent valid data from being input;TRUE;;;
+451;45. Validating data;10;True or False;Validation checks if data is correct;FALSE;;;
+;Computer communications and networking;;;;;;;
+452;46. Advantages of networking;1;Multiple choice;Which of the following is not an advantage of networking?;Security from viruses and unauthorised access.;Ability to share files and printers;Ability to move the same user account between different computers;Obtaining site license software at reduced cost compared to buying multiple copies.
+453;46. Advantages of networking;2;Multiple choice;The following is needed to get on the Internet:;Networking of computers.;A modem for every computer.;Administrative accounts.;Large storage capacity.
+454;46. Advantages of networking;3;True or False;Collaborative working is very popular today and is made possible by networking.;TRUE;;;
+455;46. Advantages of networking;4;True or False;Upgrading software is easier to do over the network.;TRUE;;;
+456;46. Advantages of networking;5;Multiple choice;When a computing task would take too long for any one computer to do, the use of networking will allow the use of:;Distributed processing.;To replace computers as they break down under load.;Will speed up Internet access.;
+457;46. Advantages of networking;6;Multiple choice;The following activity is made possible by networking:;All of these;Remote troubleshooting of computer problems by techsupport.;Cloud storage.;Internet browsing and email.
+458;46. Advantages of networking;7;True or False;Networking allows easier sharing of peripherals.;TRUE;;;
+459;46. Advantages of networking;8;True or False;The cost of networking has been going down over the last few decades.;TRUE;;;
+460;46. Advantages of networking;9;True or False;Networking standards don't change fast enough to keep up with developments in wireless and CPU technology.;FALSE;;;
+461;46. Advantages of networking;10;True or False;Wireless network is starting to overtake wired networking as a preferred connection type.;TRUE;;;
+462;47. Hardware needed to connect to a LAN;1;Multiple choice;The following is not needed to connect to LAN:;The latest version of an operating system and all the updates.;Network card;Wireless or wired router;
+463;47. Hardware needed to connect to a LAN;2;Multiple choice;The following device is not very intelligent but allows computers to form a segment of a network:;Hub;Router;Modem;NIC
+464;47. Hardware needed to connect to a LAN;3;Multiple choice;This device performs a lot of processing to filter and readdress network packets:;Router;Hub;Switch;Modem
+465;47. Hardware needed to connect to a LAN;4;True or False;A switch is better in preventing data collisions than a hub.;TRUE;;;
+466;47. Hardware needed to connect to a LAN;5;Multiple choice;The following hardware is becoming more and more common in networking:;Wireless hotspot.;Router;Hub;Switch
+467;47. Hardware needed to connect to a LAN;6;Multiple choice;When a router processes a packet, it will look at its source field to:;Notify the sender if the packet doesn't get through.;Forward the packet to its intended recipient.;To filter packets that are lost.;
+468;47. Hardware needed to connect to a LAN;7;Multiple choice;The following device allows different LANs to connect to each other:;Gateway;Switch;Hub;
+469;47. Hardware needed to connect to a LAN;8;True or False;Wired networks are faster than wireless.;TRUE;;;
+470;47. Hardware needed to connect to a LAN;9;True or False;Firewall makes sure the packets are sent to the right destination and protects them while they are on their way.;FALSE;;;
+471;47. Hardware needed to connect to a LAN;10;Multiple choice;The following device assigns unique IP addresses to computers on a LAN:;Router;Gateway;Firewall;Hub
+472;48. Client servers and peer to peer networks;1;True or False;A peer to peer network always has a central server;FALSE;;;
+473;48. Client servers and peer to peer networks;2;True or False;In a client server network, all clients are equally powerful.;FALSE;;;
+474;48. Client servers and peer to peer networks;3;True or False;A peer to peer network is a network arrangement where all of the computers are equal.;TRUE;;;
+475;48. Client servers and peer to peer networks;4;Multiple choice;Which one of these items is not an advantage of a client-server network?;No central point of failure;Central control of security;Easier to supervise network performance;Easier to perform software upgrades
+476;48. Client servers and peer to peer networks;5;Multiple choice;Which one of these items is true of a peer-to-peer network?;No network wide security in place;Central control of security;Has a central point of failure;Easier to perform network wide backups
+477;48. Client servers and peer to peer networks;6;True or False;A client-server network allows people to save their data centrally.;TRUE;;;
+478;48. Client servers and peer to peer networks;7;True or False;In a peer-to-peer network you can have a server.;TRUE;;;
+479;48. Client servers and peer to peer networks;8;True or False;In a peer-to-peer network everyone has control over their own machine.;TRUE;;;
+480;48. Client servers and peer to peer networks;9;True or False;In a peer-to-peer network you must have a network administrator.;FALSE;;;
+481;48. Client servers and peer to peer networks;10;Multiple choice;Which one of these items is true of a client-server network?;Needs a network manager to run the network;No centralised management;All computers have equal status;No dependency on a server
+482;49. Topologies;1;Text and Image multiple choice;Click on the Bus network topology;;;;
+483;49. Topologies;2;Text and Image multiple choice;Click on the Star network topology;;;;
+484;49. Topologies;3;Text and Image multiple choice;Click on the Ring network topology;;;;
+485;49. Topologies;4;True or False;In a ring network, if one computer fails, they all fail.;FALSE;;;
+486;49. Topologies;5;Multiple choice;Which network would suffer a decrease in performance across the whole network if there was a break in one cable?;Ring;Bus;Star;
+487;49. Topologies;6;Multiple choice;Which network topology uses a backbone to connect all of the computers?;Bus;Ring;Star;
+488;49. Topologies;7;Multiple choice;"""When data is sent, it is sent to all of the computers on the network"" - which network topology is this describing?";Bus;Ring;Star;
+489;49. Topologies;8;Multiple choice;Which network topology is the most common way of setting up a network?;Star;Ring;Bus;
+490;49. Topologies;9;Multiple choice;Which network topology is the hardest to add a new computer to?;Ring;Star;Bus;
+491;49. Topologies;10;Multiple choice;Which network topology has a central point of failure?;Star;Ring;Bus;
+492;50. Differences between a LAN and a WAN;1;Multiple choice;LAN stands for;Local Area Network;Large Area Network;Little Area Network;Local Analogue Network
+493;50. Differences between a LAN and a WAN;2;Multiple choice;WAN stands for;Wide Area Network;Wise Area Network;Wireless Area Network;Wired Area Network
+494;50. Differences between a LAN and a WAN;3;True or False;A LAN can span several sites over a global area;FALSE;;;
+495;50. Differences between a LAN and a WAN;4;True or False;A WAN is a network within one building;FALSE;;;
+496;50. Differences between a LAN and a WAN;5;True or False;To connect a LAN to another LAN a WAN could be used;TRUE;;;
+497;50. Differences between a LAN and a WAN;6;True or False;A WAN can spread over a vast area and include several LANs;TRUE;;;
+498;50. Differences between a LAN and a WAN;7;Multiple choice;Which one of these items describes a LAN?;A computer network covering a small geographic area, like a home, office, school, or group of buildings.;A computer network that covers a broad area (e.g. any network whose communications links cross metropolitan, regional, or national boundaries over a long distance).;;
+499;50. Differences between a LAN and a WAN;8;True or False;A network with over 500 computers connected is considered to be a WAN;FALSE;;;
+500;50. Differences between a LAN and a WAN;9;Multiple choice;Which one is true of a WAN?;Can span two countries;Is completely secure;Has over 500 devices connected to it;Is very fast
+501;50. Differences between a LAN and a WAN;10;True or False;A network is described as a WAN or a LAN based on the geographical spread of the network;TRUE;;;
+502;51. IP addressing, MAC addressing, packets and protocols;1;Multiple choice;IP stands for;Internet Protocol;Intellectual Protocol;Internet Property;Information Protocol
+503;51. IP addressing, MAC addressing, packets and protocols;2;Multiple choice;MAC stands for;Media Access Control;Machine Access Control;Machine Address Control;Media Access Computer
+504;51. IP addressing, MAC addressing, packets and protocols;3;True or False;Each physical interface connected to a network has a unique MAC address;TRUE;;;
+505;51. IP addressing, MAC addressing, packets and protocols;4;True or False;Each MAC adress is unique;TRUE;;;
+506;51. IP addressing, MAC addressing, packets and protocols;5;True or False;An IP address is allocated to each computer in the warehouse when it is built;FALSE;;;
+507;51. IP addressing, MAC addressing, packets and protocols;6;Multiple choice;Which item is not a protocol?;MAC;IMAC;POP3;HTTP
+508;51. IP addressing, MAC addressing, packets and protocols;7;Multiple choice;An FTP protocol is used for;Copying files from one host to another;Distributing web pages;Accessing emails;Creating secure communications
+509;51. IP addressing, MAC addressing, packets and protocols;8;Multiple choice;Which protocol is a cryptographic protocol designed for secure communications?;TLS/SSL;FTP;HTTP;POP3
+510;51. IP addressing, MAC addressing, packets and protocols;9;Multiple choice;A typical IP address looks like this;192.168.2.1;H72Wd9;1011010;www.youtube.com
+511;51. IP addressing, MAC addressing, packets and protocols;10;True or False;The internet uses packet switching, meaning that data is sent as bundles of data called packets.;TRUE;;;
+512;52. Security measures;1;Multiple choice;Which of the following can be used to protect a network?;Firewall;Blocker;Server;Client
+513;52. Security measures;2;True or False;Wireless networks are more secure than wired ones?;FALSE;;;
+514;52. Security measures;3;Multiple choice;Which of the following is a type of wireless encryption?;WPS;WWW;WWF;WSS
+515;52. Security measures;4;Multiple choice;Traffic can be secured over a network by applying what?;Encryption;Hashing;CRC;IP addressing
+516;52. Security measures;5;True or False;Secure clients on a network respond to every request they receive.;FALSE;;;
+517;52. Security measures;6;True or False;Using passwords makes communication over a network perfectly secure.;FALSE;;;
+518;52. Security measures;7;True or False;PGP cannot be cracked.;FALSE;;;
+519;52. Security measures;8;Multiple choice;What is not a good way of securing a wireless network?;Automatically allocate IP addresses.;Disable SSID.;Turn on wireless security protocols.;Enable MAC filtering.
+520;52. Security measures;9;True or False;The most secure network is one that is not connected to the internet.;TRUE;;;
+521;52. Security measures;10;True or False;A router has to respond to ping requests by law.;FALSE;;;
+522;53. Network policies;1;True or False;Network policies don't apply to users if they don't read them.;FALSE;;;
+523;53. Network policies;2;True or False;If you don't own the network you can do what you want on it including breaking the law.;FALSE;;;
+524;53. Network policies;3;True or False;Network policies stop you going on any websites other than those approved by the administrator.;FALSE;;;
+525;53. Network policies;4;Multiple choice;What is likely to be covered in a network policy?;Rules for chosing passwords.;Lists of website you are allowed on.;Passwords for the network.;Conditions where the policy won't apply.
+526;53. Network policies;5;True or False;Connecting to an open internet connection is illegal if you don't have permission to connect.;TRUE;;;
+527;53. Network policies;6;Multiple choice;Which of the following is not covered in a network policy?;Who can't access the network.;Password guidelines.;Accepted methods of connection.;How the network is monitored.
+528;53. Network policies;7;True or False;Not understanding the terms of a network policy means you can't get into trouble through misuse.;FALSE;;;
+529;53. Network policies;8;True or False;Network policies contain information about the actions the providers of the network will take upon its misuse.;TRUE;;;
+530;53. Network policies;9;True or False;You can lose your job if you misuse your company's network.;TRUE;;;
+531;53. Network policies;10;True or False;Companies don't need network policies.;FALSE;;;
+532;54. The internet and hardware;1;True or False;The internet is a network of networks.;TRUE;;;
+533;54. The internet and hardware;2;Multiple choice;Which of the following items of hardware connects different networks together?;Router;Server;Dongle;Firewall
+534;54. The internet and hardware;3;True or False;There is only one path between different countries connected to the internet.;FALSE;;;
+535;54. The internet and hardware;4;Multiple choice;Which of the following locates resources on the internet?;IP addresses;Computer names;WPA codes;
+536;54. The internet and hardware;5;True or False;The internet allways sends traffic along the shortest possible path.;FALSE;;;
+537;54. The internet and hardware;6;Multiple choice;Which of the following is an example of a generic top level internet domain?;com;ac;co;sch
+538;54. The internet and hardware;7;True or False;You always need a URL to access a website.;FALSE;;;
+539;54. The internet and hardware;8;Multiple choice;Which country controls the internet?;No one country.;USA;Russia;China
+540;54. The internet and hardware;9;True or False;You can't block information from other countries on the internet.;FALSE;;;
+541;54. The internet and hardware;10;True or False;The internet can never break.;FALSE;;;
+542;55. IP addressing of resources;1;Multiple choice;Which of the following IP addresses are valid?;101.167.43.254;101.167.43.256;101.167.43.10.56;1031.167.43.10
+543;55. IP addressing of resources;2;Multiple choice;Which of the following is not a private IP address?;78.0.0.1;10.0.0.1;172.16.0.1;192.168.0.1
+544;55. IP addressing of resources;3;True or False;There are enough IPv4 addresses that will ever be needed;FALSE;;;
+545;55. IP addressing of resources;4;True or False;The latest revision of IP addressing is v6.;TRUE;;;
+546;55. IP addressing of resources;5;True or False;IP addresses can never be changed.;FALSE;;;
+547;55. IP addressing of resources;6;Multiple choice;Which technology allows the assignment of IP addresses?;DHCP;OSPF;MAC;DNS
+548;55. IP addressing of resources;7;True or False;No users need static IP addresses.;FALSE;;;
+549;55. IP addressing of resources;8;Multiple choice;What does DHCP also provide in addition to IP addresses?;Subnet mask.;Host name.;Location of the interent.;Wireless passwords.
+550;55. IP addressing of resources;9;True or False;When you connect to an ISP you will always get the same IP address.;FALSE;;;
+551;55. IP addressing of resources;10;Multiple choice;What technology allows the sharing of public IP addresses across many private clients?;NAT;DHCP;DNS;HTTP
+552;56. The importance of HTML;1;True or False;The World Wide Web is made up of documents written in HTML;TRUE;;;
+553;56. The importance of HTML;2;Multiple choice;HTML stands for;HyperText Markup Language;HyperText Madeup Language;Hyper Transfer Markup Language;Huge Text Markup Language
+554;56. The importance of HTML;3;True or False;HTML is made up of text enclosed in tags;TRUE;;;
+555;56. The importance of HTML;4;Multiple choice;The following part of an HTML document is only visible to the browser, not user:;Head;Body;Style;
+556;56. The importance of HTML;5;True or False;HTML tags usually come in pairs;TRUE;;;
+557;56. The importance of HTML;6;True or False;HTML tags always come in pairs;FALSE;;;
+558;56. The importance of HTML;7;Text and Image multiple choice;Which one is HTML code?;;;;
+559;56. The importance of HTML;8;Multiple choice;What does the p tag do in HTML?;Define a paragraph;Define a bullet point list;Change the webpage title;Define a new image
+560;56. The importance of HTML;9;True or False;HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies used for building Web pages;TRUE;;;
+561;56. The importance of HTML;10;Multiple choice;HTML is;The language for describing the structure of Web pages.;The way to connect two devices together;A method of data transfer;Used within spreadsheets
+562;57. Common file standards and compressing files;1;Multiple choice;Which of the following file standards is used for images?;JPEG;PDF;PPT;PY
+563;57. Common file standards and compressing files;2;Multiple choice;Which of the following file standards is used for music files?;MP3;GIF;DOCX;OBJ
+564;57. Common file standards and compressing files;3;True or False;Compressing files reduces transfer time.;TRUE;;;
+565;57. Common file standards and compressing files;4;Multiple choice;Which of the following file types is an example of a compressed archive?;ZIP;WAV;BMP;CO
+566;57. Common file standards and compressing files;5;True or False;Compressing files removes redundant data from files.;TRUE;;;
+567;57. Common file standards and compressing files;6;True or False;Compressed files cannot contain viruses.;FALSE;;;
+568;57. Common file standards and compressing files;7;Multiple choice;Which of the following file formats is used for video?;MPEG;MP3;BMP;VIDE
+569;57. Common file standards and compressing files;8;Multiple choice;Which of the following file formats is used for typed documents?;PDF;XLS;MP3;AVI
+570;57. Common file standards and compressing files;9;True or False;PDF files are always larger in size than the original documents they come from.;FALSE;;;
+571;57. Common file standards and compressing files;10;Multiple choice;Which of the following is not a valid reason for compressing files?;Reducing the amount of storage space they take up when decompressed again.;Reducing network transfer time.;Adding additional security to files.;Sending multiple files conveniently.
+;Programming;;;;;;;
+572;58. Algorithms in pseudocode and flow diagrams;1;True or False;When planning an algorithm using flowcharts, you can use any symbols you'd like.;FALSE;;;
+573;58. Algorithms in pseudocode and flow diagrams;2;True or False;On a flowchart, decisions are represented using diamond shapes.;TRUE;;;
+574;58. Algorithms in pseudocode and flow diagrams;3;True or False;Processes on a flowchart are represented using ovals.;FALSE;;;
+575;58. Algorithms in pseudocode and flow diagrams;4;True or False;Pseudocode is used by the computer to know what an algorithm should do.;FALSE;;;
+576;58. Algorithms in pseudocode and flow diagrams;5;True or False;There is not one main standard for pseudocode.;TRUE;;;
+577;58. Algorithms in pseudocode and flow diagrams;6;True or False;The pseudocode INPUT SCORE describes that data inputted into the system should be stored in the variable SCORE.;TRUE;;;
+578;58. Algorithms in pseudocode and flow diagrams;7;Multiple choice;In a flowchart input and output actions are represented by:;Parallelograms;Diamonds;Rectangles;Circles
+579;58. Algorithms in pseudocode and flow diagrams;8;Multiple choice;The correct pseudocode for a loop that runs a set number of times is:;FOR;WHILE;REPEAT;LOOP
+580;58. Algorithms in pseudocode and flow diagrams;9;True or False;Pseudocode is complex and should contain comments explaining the operation of the code.;FALSE;;;
+581;58. Algorithms in pseudocode and flow diagrams;10;Multiple choice;On a flowchart, a decision will always have:;Two exit arrows;One exit arrow;Three exit arrows;Four exit arrows
+582;59. High level code and machine code;1;True or False;High and low-level programming languages can be understood by a computer.;FALSE;;;
+583;59. High level code and machine code;2;Multiple choice;An example of a high-level programming language is:;Python;Assembly;Machine code;Cloud
+584;59. High level code and machine code;3;True or False;Low-level languages are more efficient that high-level ones.;TRUE;;;
+585;59. High level code and machine code;4;True or False;Machine code uses the binary number system.;TRUE;;;
+586;59. High level code and machine code;5;True or False;High-level languages need to be compiled into machine code before they can be used by a computer.;TRUE;;;
+587;59. High level code and machine code;6;True or False;Machine code is easy to understand by a human.;FALSE;;;
+588;59. High level code and machine code;7;True or False;The same machine code entered into one computer will be guaranteed to work on any other computer.;FALSE;;;
+589;59. High level code and machine code;8;Multiple choice;What can be added to high-level program code to make it easier to understand?;Comments;Variables;Registers;Descriptions
+590;59. High level code and machine code;9;Multiple choice;In a machine code instruction, the action to perform is known as the:;Opcode;Operand;Variable;Command
+591;59. High level code and machine code;10;Multiple choice;Machine code can be represented in assembly language using:;Mnemonics;Pneumatics;Nomanics;Psychotics
+592;60. Tour of an IDE;1;Multiple choice;An IDE checks programming code using a:;Debugger;Fault finder;Breakpoint;Compiler
+593;60. Tour of an IDE;2;Multiple choice;Modern IDEs assist programmers by:;Automatically completing code;Writing programs for the user;Stopping any errors from being produced;Removing the need to write any code at all
+594;60. Tour of an IDE;3;True or False;IDE is the abbreviation of integrated development environment.;TRUE;;;
+595;60. Tour of an IDE;4;True or False;When debugging a program the user can add breakdots to pause the execution of the code at a certain point.;FALSE;;;
+596;60. Tour of an IDE;5;True or False;IDEs are useful for programming complex solutions.;TRUE;;;
+597;60. Tour of an IDE;6;True or False;IDEs can check the contents of any variable at any time.;TRUE;;;
+598;60. Tour of an IDE;7;True or False;All programmers only use IDEs now.;FALSE;;;
+599;60. Tour of an IDE;8;Multiple choice;Which of these does not use an IDE?;Machine code;Visual Basic;C#;Java
+600;60. Tour of an IDE;9;True or False;There are never any free IDEs.;FALSE;;;
+601;60. Tour of an IDE;10;True or False;IDEs are useful when designing form based applications.;TRUE;;;
+602;61. Sequence in an algorithm;1;True or False;The order of instructions in a computer program is not important.;FALSE;;;
+603;61. Sequence in an algorithm;2;True or False;Sequential programs execute in the same way every time.;TRUE;;;
+604;61. Sequence in an algorithm;3;True or False;The order of sequential programs can be adjusted using IF statements.;FALSE;;;
+605;61. Sequence in an algorithm;4;Multiple choice;Which of the following are not features of sequential programs?;Loops;Instructions;Comments;Variables
+606;61. Sequence in an algorithm;5;Multiple choice;Which of the following pseudocode statements could be used in a sequential program?;count = count + 1;IF count > 5 THEN;WHILE count < 5;
+607;61. Sequence in an algorithm;6;True or False;Sequential programs always produce outputs in the same order.;TRUE;;;
+608;61. Sequence in an algorithm;7;Multiple choice;Which of the following is an example of a sequential program?;Production line;Computer game;Spreadsheet;Web browser
+609;61. Sequence in an algorithm;8;True or False;The order in which sequential programs execute can be changed by the actions of a user.;FALSE;;;
+610;61. Sequence in an algorithm;9;Multiple choice;What type of programs tend to be sequential in nature?;Control;Desktop;Mobile;Cloud
+611;61. Sequence in an algorithm;10;True or False;There are never any sequential programs.;FALSE;;;
+612;62. Selection in an algorithm;1;Multiple choice;Selection in a program is controlled by...;IF statements;WHILE loops;REPEAT loops;Arrays
+613;62. Selection in an algorithm;2;Multiple choice;An IF statement is triggered by....;Conditions;Comments;Loops;Time
+614;62. Selection in an algorithm;3;Multiple choice;Which of the following statements can be used to extend selection from a single IF statement?;ELSE;DO;CHOICE;ELK
+615;62. Selection in an algorithm;4;Multiple choice;Which of the following is not a selection statement?;SPLIT;IF;ELSE;ELSE IF
+616;62. Selection in an algorithm;5;True or False;Selection statements in programs can change the flow of control.;TRUE;;;
+617;62. Selection in an algorithm;6;True or False;Selection in programs is useful to repeat blocks of code.;FALSE;;;
+618;62. Selection in an algorithm;7;True or False;Selection in a flowchart is represented by a circle.;FALSE;;;
+619;62. Selection in an algorithm;8;Multiple choice;Which of the following is an example of selection in pseudocode?;IF x < 10 THEN;WHEN x < 10;(x < 10) IF TRUE THEN;FOR x=0 TO 10
+620;62. Selection in an algorithm;9;True or False;Selection conditions have only two outcomes, TRUE or FALSE.;TRUE;;;
+621;62. Selection in an algorithm;10;Multiple choice;Which of the following are not selection statements?;FOR;IF;ELSE;SELECT CASE
+622;63. Iteration, basic programming constructs and loops;1;True or False;Loops are used to repeat parts of a program;TRUE;;;
+623;63. Iteration, basic programming constructs and loops;2;Multiple choice;Which of the following is not a type of loop?;IF;;;
+624;63. Iteration, basic programming constructs and loops;3;True or False;Iteration is an alternative term for loop.;TRUE;;;
+625;63. Iteration, basic programming constructs and loops;4;True or False;A WHILE loop is an example of a count-controlled loop.;FALSE;;;
+626;63. Iteration, basic programming constructs and loops;5;Multiple choice;Which of the following is a count-controlled loop?;FOR;;;
+627;63. Iteration, basic programming constructs and loops;6;True or False;A REPEAT loop will always execute at least once.;TRUE;;;
+628;63. Iteration, basic programming constructs and loops;7;True or False;A WHILE loop will always execute at least once.;FALSE;;;
+629;63. Iteration, basic programming constructs and loops;8;Multiple choice;What is used to control if a loop should run or not?;Condition;;;
+630;63. Iteration, basic programming constructs and loops;9;Multiple choice;Which is the correct form of a FOR loop in pseudocode?;FOR i=0 TO 10;;;
+631;63. Iteration, basic programming constructs and loops;10;Multiple choice;Which of the following loops will stop when x reaches 10?;WHILE x < 10;;;
+632;64. Variables and constants;1;True or False;Variables cannot be changed.;FALSE;;;
+633;64. Variables and constants;2;True or False;Constants cannot be changed.;TRUE;;;
+634;64. Variables and constants;3;Multiple choice;Which of these values would be useful as a constant?;Pi;;;
+635;64. Variables and constants;4;Multiple choice;Which of these values would be used as a variable?;Velocity;;;
+636;64. Variables and constants;5;True or False;The value of a constant can be changed using an expression.;FALSE;;;
+637;64. Variables and constants;6;True or False;Variable names can't start with a number.;TRUE;;;
+638;64. Variables and constants;7;True or False;Variable names can include spaces.;FALSE;;;
+639;64. Variables and constants;8;True or False;Some specific words can't be used as variables.;TRUE;;;
+640;64. Variables and constants;9;Multiple choice;Which of the following variables names is an example of camel case?;totalScore;;;
+641;64. Variables and constants;10;True or False;You cannot complete an expression that mixes variables and constants.;FALSE;;;
+642;65. Data types;1;Multiple choice;Which of the following is not a data type?;Number;;;
+643;65. Data types;2;True or False;Variables and constants in programs need to be assigned a data type.;TRUE;;;
+644;65. Data types;3;Multiple choice;What data type would be best used to record the number of people at a party?;Integer;;;
+645;65. Data types;4;Multiple choice;What data type would be best to record the exact length of a piece of string in meters?;Real;;;
+646;65. Data types;5;True or False;Expressions cannot contain variables of different data types.;FALSE;;;
+647;65. Data types;6;True or False;Integers cannot store negative numbers.;FALSE;;;
+648;65. Data types;7;True or False;If you store a smaller number in an integer, (say 10 instead of 1234,) it will take up less memory.;FALSE;;;
+649;65. Data types;8;True or False;Data types of variables can never be changed.;FALSE;;;
+650;65. Data types;9;Multiple choice;What data type would be best used to record an email address?;String;;;
+651;65. Data types;10;Multiple choice;What data type would be the answer to the expression x < 5?;Boolean;;;
+652;66. Operations on numeric and Boolean data;1;Multiple choice;What would be the result of the expression 4 > 5?;FALSE;;;
+653;66. Operations on numeric and Boolean data;2;Multiple choice;What would be the result of the expression (2 + 3) * 4?;20;;;
+654;66. Operations on numeric and Boolean data;3;Multiple choice;What would be the result of the expression 2 + 3 * 4?;14;;;
+655;66. Operations on numeric and Boolean data;4;True or False;In an AND statement both sides need to be TRUE to produce an output of TRUE.;TRUE;;;
+656;66. Operations on numeric and Boolean data;5;True or False;In an OR statement both sides need to be TRUE to produce an output of TRUE.;FALSE;;;
+657;66. Operations on numeric and Boolean data;6;Multiple choice;NOT TRUE is...;FALSE;;;
+658;66. Operations on numeric and Boolean data;7;Multiple choice;The operator ** performs which mathematical function?;Power of;;;
+659;66. Operations on numeric and Boolean data;8;Multiple choice;The operator // performs which mathematical function?;Floor division;;;
+660;66. Operations on numeric and Boolean data;9;Multiple choice;Which mathematical rule do expression follow?;BODMAS;;;
+661;66. Operations on numeric and Boolean data;10;True or False;Boolean data can be generated from numerical values.;TRUE;;;
+662;67. Arrays;1;True or False;The first element in an array is always element 1.;FALSE;;;
+663;67. Arrays;2;Multiple choice;Arrays always have the same...;data types;;;
+664;67. Arrays;3;True or False;Arrays are collection of the same data type under a single identifier.;TRUE;;;
+665;67. Arrays;4;True or False;Values in arrays cannot be changed.;FALSE;;;
+666;67. Arrays;5;Multiple choice;The first and last elements of an array declared as scores[10] is...;scores[0], scores[9];;;
+667;67. Arrays;6;True or False;myArray[0] + myArray[1] adds the first two values in an array together.;TRUE;;;
+668;67. Arrays;7;True or False;Array elements can be used the same as any other variable.;TRUE;;;
+669;67. Arrays;8;True or False;When an array is declared it will always be empty.;FALSE;;;
+670;67. Arrays;9;True or False;The structure of an array cannot be changed once it is created.;FALSE;;;
+671;67. Arrays;10;True or False;Loops are useful for cycling through an array.;TRUE;;;
+672;68. Syntax and logic errors;1;True or False;Syntax errors are always spotted when the program is compiled or interpreted.;TRUE;;;
+673;68. Syntax and logic errors;2;True or False;Logic errors are detected by the programming IDE being used.;FALSE;;;
+674;68. Syntax and logic errors;3;Multiple choice;Which of these pseudocode statements is an example of a logic error?;FOR x=0 TO 10 STEP -1;FOR x=0 TO 10 STEP 1;FOR x=10 TO 0 STEP -1;FOR x=0 TOO 10 STEP 1
+675;68. Syntax and logic errors;4;True or False;Syntax errors are caused by incorrectly typed source code.;TRUE;;;
+676;68. Syntax and logic errors;5;True or False;A program won't run if there is a logic error.;FALSE;;;
+677;68. Syntax and logic errors;6;Multiple choice;Which of these pseudocode statements contains a syntax error?;pounds = pence x 100;pounds = pence * 100;pounds = pence / 100;pounds = 100 / pence
+678;68. Syntax and logic errors;7;True or False;Modern IDEs are able to spot syntax errors as the programmer types.;TRUE;;;
+679;68. Syntax and logic errors;8;True or False;A program may never contain both syntax and logic errors.;FALSE;;;
+680;68. Syntax and logic errors;9;Multiple choice;Which statement best describes logic errors?;An error in a program that causes it to produce incorrect ouputs but not a crash.;An error in a program that causes it to crash.;An error in the program caused by mis-spelt instructions.;An error in a program caused by hardware failure.
+681;68. Syntax and logic errors;10;Multiple choice;Which of these expressions will generate a logic error when the expected output is 10?;answer = 2 + 3 * 2;answer = (2 + 3) * 2;answer = 2 + 3 x 2;answer = {2 + 3} * 2
+682;69. Test data;1;Multiple choice;Which of the following is not a type of test data?;Check;Valid;Invalid;Borderline
+683;69. Test data;2;True or False;Valid tests check that a program rejects incorrect input.;FALSE;;;
+684;69. Test data;3;True or False;Borderline tests check the minumum and maximum values of an input.;TRUE;;;
+685;69. Test data;4;True or False;Invalid testing checks to make sure that a program crashes when incorrect data is entered.;FALSE;;;
+686;69. Test data;5;Multiple choice;Which of the following would not be used in a borderline test for a percentage?;50;0;100;
+687;69. Test data;6;Multiple choice;Which of the following should be used to carry out an invalid test on the input of a person's age?;-10;10;110;0
+688;69. Test data;7;Multiple choice;Which of the following would be used for a normal test of an input for the price of an item?;1,99;1,99;-5,12;10 pounds
+689;69. Test data;8;True or False;You can only test inputs using one type of test data.;FALSE;;;
+690;69. Test data;9;True or False;Valid test data should match the data type of the expected input.;TRUE;;;
+691;69. Test data;10;True or False;You don't need to use invalid testing if you know the valid tests have passed.;FALSE;;;
+692;70. Basic string manipulation;1;True or False;Strings can be treated as arrays of characters.;TRUE;;;
+693;70. Basic string manipulation;2;Multiple choice;Which of the following is not a string function?;QUOTE;LENGTH;FIND;LEFT
+694;70. Basic string manipulation;3;True or False;The LEFT function performed on a string will remove all charatcters on the left of a string.;FALSE;;;
+695;70. Basic string manipulation;4;True or False;The FIND function will find all instances of a chosen character within a string.;FALSE;;;
+696;70. Basic string manipulation;5;Multiple choice;Which of the following string functions would be useful to read a CSV file?;SPLIT;MID;RIGHT;LENGTH
+697;70. Basic string manipulation;6;Multiple choice;"LENGTH(""password"") will return...";8;7;9;11
+698;70. Basic string manipulation;7;Multiple choice;"FIND(""name@school.edu"", ""@"") will return";4;5;1;0
+699;70. Basic string manipulation;8;Multiple choice;"RIGHT(""Hello world!"", 6) will return...";world!;World!;Hello;world
+700;70. Basic string manipulation;9;True or False;String functions always replace the value of the exsisting string with the result.;FALSE;;;
+701;70. Basic string manipulation;10;True or False;String functions can be used to detect user input errors.;FALSE;;;
+702;71. Basic file handling operations;1;Multiple choice;Which of the following is not a method of opening files?;Replace;Append;Write;Read
+703;71. Basic file handling operations;2;True or False;Opening a file with write access causes the contents of the file to removed first.;TRUE;;;
+704;71. Basic file handling operations;3;True or False;Appending to a file means adding extra data into the file.;TRUE;;;
+705;71. Basic file handling operations;4;Multiple choice;Which of the following needs to be used to provide access to the file throughout a program?;File descriptor;File writer;File changer;File type
+706;71. Basic file handling operations;5;True or False;Files are used by programs to store data needed for later use.;TRUE;;;
+707;71. Basic file handling operations;6;True or False;When writing to a file you cannot create new lines.;FALSE;;;
+708;71. Basic file handling operations;7;Multiple choice;What is the last action that must be performed on a file?;Close;Save;End;Write
+709;71. Basic file handling operations;8;Multiple choice;What is the data type of data read from a file?;String;Integer;Real;Boolean
+710;71. Basic file handling operations;9;Multiple choice;Reading from a file often involves using...;A loop;An condition;Comments;
+711;71. Basic file handling operations;10;True or False;Appending data to a file places it at the start of the file.;FALSE;;;
